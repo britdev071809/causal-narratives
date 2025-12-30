@@ -1,0 +1,11 @@
+# Reflection: Linear Tools for Circular Problems
+
+The GitHub commit log presents a fundamentally linear, chronological history of a project. Each commit is a discrete node in a chain, linked to its predecessor and successor. This structure mirrors the linear causality narrative: one change “leads to” the next, and the entire history can be traced back along a single, unambiguous timeline.
+
+The philosophical ideas explored in this repository, however, are inherently non‑linear. Circular causality describes feedback loops, mutual reinforcement, and co‑evolution—patterns that resist being flattened into a sequence of before‑and‑after. When we used branching to represent competing narratives and a pull request to stage a dialogue between them, we attempted to model circular dynamics with a linear tool. The result is revealing.
+
+The linear commit history cannot capture the simultaneous, recursive influence of A on B and B on A. Instead, it forces us to choose an order: first we create the linear narrative branch, then we create the circular narrative branch, then we attempt to merge them. This chronological ordering implicitly privileges one narrative as the “base” and the other as the “change,” even though the philosophical conflict is not about temporal precedence. The tool’s linearity thus shapes the way we frame the problem.
+
+Yet this very limitation can help clarify the problem. By forcing circular ideas into a linear workflow, we make visible the tensions that arise when different causal frameworks meet. The pull request becomes a site of conflict, where the linear narrative’s assumptions are exposed to critique from the circular perspective. The inability of the commit log to represent feedback loops highlights the epistemological gap between the model and the phenomenon it seeks to describe.
+
+Using a linear tool to model a circular problem does not obscure the problem; it illuminates the mismatch between our conceptual frameworks and the reality we are trying to understand. The tool’s constraints become a lens through which we can examine our own habits of thought—reminding us that the maps we draw are never the territory, and that every modeling decision carries philosophical baggage.
