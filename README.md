@@ -1,2 +1,9 @@
-# causal-narratives
-A philosophical exploration of linear vs circular causality in public discourse about social media polarization
+# Causal Narratives: Linear vs Circular Causality in Social Media Polarization
+
+This repository serves as a philosophical and technical exploration of how competing causal narratives shape our understanding of social media's role in political polarization. The debate surrounding algorithmic recommendation engines provides a rich case study for examining the limitations of linear causality (A → B) versus the explanatory power of circular causality (A ↔ B).
+
+Linear causality operates on a simple cause‑and‑effect model: algorithms (A) directly cause increased polarization (B). This narrative is seductively clear and aligns with our everyday linguistic patterns—we say “X leads to Y” and imagine a straightforward, unidirectional flow of influence. Yet this simplicity can obscure the complex, recursive nature of socio‑technical systems.
+
+Circular causality, by contrast, embraces feedback loops and mutual reinforcement. Pre‑existing social divisions (A) lead to the creation of polarizing content, which in turn trains the algorithms (B); those algorithms then amplify the same divisions (A), creating a self‑reinforcing cycle. This model better captures the co‑evolution of technology and society, but its non‑linearity makes it harder to communicate and to assign blame.
+
+By using GitHub’s branching and merging workflows as a metaphorical and practical system, we aim to make these philosophical tensions explicit. Can a linear narrative be “patched” by a circular one? Does the linear commit history of a repository inherently clash with the circular dynamics it seeks to describe? This project invites you to trace the conflict, the attempted synthesis, and the inevitable incompatibilities that arise when we try to model a circular world with linear tools.
